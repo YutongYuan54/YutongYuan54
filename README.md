@@ -8,7 +8,7 @@
 - <b> Time Series Analysis (R, SARIMA Model)</b>
   - [Time Series Forecast on CO2 Concentration](https://github.com/YutongYuan54/Time-Series-Forecast-on-CO2-Concentration) 
 - <b>Econometrics Research (STATA, difference-in-difference, OLS)</b>
-  - [Effects of Banning Informal Attendance on Newborn Health in Malawi](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Effects of Banning Informal Attendance on Newborn Health in Malawi](https://github.com/YutongYuan54/Effects-of-Banning-Informal-Attendance-on-Newborn-Health-in-Malawi)
  
 
 <h2> 🤳 Connect with me:</h2>
