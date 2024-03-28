@@ -6,7 +6,7 @@
 - <b> Statistics Canada Covid-19 Research (R, GAM model semi-parametric model) </b>
   - [Impact of COVID-19 on mortality rate of four diseases: Malignant neoplasms, heart disease, accidents, and chronic lower respiratory diseases](https://github.com/YutongYuan54/Impact-of-COVID-19-on-mortality-rate-of-four-diseases)
 - <b> Time Series Analysis (R, SARIMA Model)</b>
-  - [Time Series Forecast on CO2 Concentration](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
+  - [Time Series Forecast on CO2 Concentration](https://github.com/YutongYuan54/Time-Series-Forecast-on-CO2-Concentration) 
 - <b>Econometrics Research (STATA, difference-in-difference, OLS)</b>
   - [Effects of Banning Informal Attendance on Newborn Health in Malawi](https://github.com/joshmadakor1/Sentinel-Lab)
  
