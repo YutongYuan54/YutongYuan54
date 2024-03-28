@@ -1,4 +1,21 @@
-### Hi there 👋
+<h1>Hi, I'm Yuan! <br/>
+  an Economics M.A. candidate, statistics background, experienced in Marketing Research, Econometrics Modeling, Finance.<h1>
+
+<h2>👨‍💻 Projects:</h2>
+
+- <b> Statistics Canada Covid-19 Research (R, GAM model semi-parametric model) </b>
+  - [Impact of COVID-19 on mortality rate of four diseases: Malignant neoplasms, heart disease, accidents, and chronic lower respiratory diseases](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b> Time Series Alalysis (R, SARIMA Model)</b>
+  - [Time Series Forecast on CO2 Concentration](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
+- <b>Econometrics Research (STATA, difference-in-difference, OLS)</b>
+  - [Effects of Banning Informal Attendance on Newborn Health in Malawi](https://github.com/joshmadakor1/Sentinel-Lab)
+ 
+
+<h2> 🤳 Connect with me:</h2>
+
+- <b>[school email]: yuan.yut@northeastern.edu</b>
+- <b>[personal email]: zoeyuanyt@gmail.com </b>
+- <b>[linkedin]: https://www.linkedin.com/in/im-yutongyuan/ </b>
 
 <!--
 **YutongYuan54/YutongYuan54** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
