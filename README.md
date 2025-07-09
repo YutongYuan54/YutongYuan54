@@ -1,5 +1,5 @@
-<h1>Hi, I'm Yuan! <br/>
-  an Economics M.A. candidate, statistics background, experienced in Marketing Research, Econometrics Modeling, Finance.<h1>
+<h1>Hi, I'm Zoe Yuan! <br/>
+<h1>
 
 <h2>👨‍💻 Projects:</h2>
 
